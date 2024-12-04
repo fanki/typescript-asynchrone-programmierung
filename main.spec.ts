@@ -8,7 +8,7 @@ import {
 
 const expectedResult: PersonInfo = {
   name: "Luke Skywalker",
-  height: "172",
+  height: 172,
   gender: "male",
   homeworld: "Tatooine",
   films: [
